@@ -1,0 +1,16 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="wox_plugin_everything_is_not_running">Sistem çalışmıyor</system:String>
+    <system:String x:Key="wox_plugin_everything_query_error">Sorgulama sırasında hata</system:String>
+    <system:String x:Key="wox_plugin_everything_copied">Kopyalandı</system:String>
+    <system:String x:Key="wox_plugin_everything_canot_start">Başlayamıyor {0}</system:String>
+    <system:String x:Key="wox_plugin_everything_open_containing_folder">Ana dizine git</system:String>
+    
+    <system:String x:Key="wox_plugin_everything_plugin_name">Herşey</system:String>
+    <system:String x:Key="wox_plugin_everything_plugin_description">Sabit disklerde ne varsa aramaya yarar</system:String>
+
+    <system:String x:Key="wox_plugin_everything_use_location_as_working_dir">Arama dizininden aynı zamanda programları çalıştır</system:String>
+
+</ResourceDictionary>
